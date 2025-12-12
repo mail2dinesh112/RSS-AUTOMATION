@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+feedparser
+sqlalchemy
+apscheduler
+pydantic
+httpx
+openai
+jinja2
+psycopg2-binary
+python-dotenv
